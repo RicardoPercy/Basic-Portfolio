@@ -1,0 +1,139 @@
+header {
+	height: 40px;
+}
+.firstname {
+	float: left;
+	font-size: 10px;
+	background-color: #4aaaa5;
+	color: white;
+	/*height: 50px;*/
+	clear: both;
+	overflow: auto;
+	margin: auto;
+	width: 200px;
+}
+/*#nav {
+	background-color: #DC143C;
+	font-family: Georgia;
+	margin-bottom: 20px;
+	width: 960px;
+	padding-bottom: 20px;
+	padding-left: 30px;
+	border: 1px solid;
+	overflow: both;
+	clear: both;
+	text-decoration-color: #
+	}*/
+.other_Links {
+	font-size: 10px;
+	width: 200px;
+	border-bottom: 20px;
+	margin-bottom: 20px;
+	list-style: none;
+	float: right;
+	padding-left: 30px;
+	height: 30px;
+	/*padding-bottom: 20px;*/
+}
+/*#w3-container {
+	width: 650px;
+	background-color: #ccc;
+	border: 1px #000000;
+*/
+header { 	
+
+	padding: 20px;
+	margin-bottom: 20px;
+  	background-color: #ffffff;
+  	border-color: #cccccc;
+  	width: 960px;
+  	/*float: left;*/
+  	/*height: 70px;*/
+}
+body {
+	clear: top;
+	float: left;
+	padding-top: 30px;
+
+
+
+}
+.container {
+	background-color: #ffffff;
+	float: left;
+	width: 500px;
+	margin-left: 50px;
+	padding-right: 50px;
+	height: 500px;
+}
+
+ul {
+	list-style: none;
+}
+.aside {
+	overflow: auto;
+	float: right;
+	border-right: 50px;
+	width: 370px;
+	background-color: #ffffff;
+	list-style: none;
+	/*height: 60px;*/
+}
+#about_Me {
+	background-color: #4aaaa5;
+}
+h1 {
+	/*border-bottom: solid 2px;*/
+	border-color: #cccccc;
+	margin-bottom: 20px;
+	padding-bottom: 20px;
+}
+h2 {
+	border-bottom: solid 2px;
+	border-color: #cccccc;
+	margin-bottom: 20px;
+	padding-bottom: 20px;
+
+}
+.linkedin {
+	float: left;
+	/*height: 20px;*/
+}
+.github {
+	float: left;
+
+}
+.stack {
+	float: left;
+	
+}
+li {
+	float: left;
+	overflow: auto;
+
+	/*height: 20px;*/
+/*	font-size: 30px;*/
+	/*clear: both;*/
+}
+.picture {
+	/*height: 20px;*/
+}
+#pictures {
+	float: left;
+	/*height: 30px;*/
+}
+footer {
+	background: #666666;
+	clear: both;
+	/*overflow: auto;*/
+	border-top: solid 5px;
+	border-color: #4aaaa5;
+	padding-left: 400px;
+	padding-top: 40px;
+	width: 960px
+	/*margin-left: 400px;*/
+	margin-top: 50px; 
+	height: 60px;
+	/*float: right
+	;*/
+}

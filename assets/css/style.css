@@ -1,0 +1,9 @@
+header {
+	height: 50px;
+}
+
+#ProfilePic {
+	background-color: #ccc;
+	height: 10px;
+	margin-top: 30px;
+}
